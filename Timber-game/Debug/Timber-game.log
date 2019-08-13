@@ -1,0 +1,12 @@
+﻿  Timber.cpp
+c:\users\laptopaz\source\repos\timber-game\timber-game\timber.cpp(81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\laptopaz\source\repos\timber-game\timber-game\timber.cpp(189): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\laptopaz\source\repos\timber-game\timber-game\timber.cpp(205): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\laptopaz\source\repos\timber-game\timber-game\timber.cpp(237): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\laptopaz\source\repos\timber-game\timber-game\timber.cpp(240): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\laptopaz\source\repos\timber-game\timber-game\timber.cpp(261): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\laptopaz\source\repos\timber-game\timber-game\timber.cpp(264): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\laptopaz\source\repos\timber-game\timber-game\timber.cpp(286): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\laptopaz\source\repos\timber-game\timber-game\timber.cpp(303): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\laptopaz\source\repos\timber-game\timber-game\timber.cpp(302): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Timber-game.vcxproj -> C:\Users\LaptopAZ\Source\Repos\Timber-game\Debug\Timber-game.exe
